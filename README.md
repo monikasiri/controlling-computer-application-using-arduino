@@ -46,8 +46,5 @@ After the hardware setup and software installation are complete, the Python prog
 This project demonstrates a simple yet effective way to interact with a computer using hand gestures. It provides an alternative to traditional input methods and can be especially useful in hands-free environments. The use of ultrasonic sensors and Arduino makes the system cost-effective and easy to implement, highlighting the potential of gesture-based human-machine interaction.
 
 
-### **Conclusion**
----
-This project demonstrates a simple yet effective way to interact with a computer using hand gestures. It provides an alternative to traditional input methods and can be especially useful in hands-free environments. The use of ultrasonic sensors and Arduino makes the system cost-effective and easy to implement, highlighting the potential of gesture-based human-machine interaction.
 
 
